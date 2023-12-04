@@ -1,0 +1,30 @@
+[
+    {
+        "GroupName": "Group1",
+        "Users": [
+            {
+                "ComputerName": "pclinux",
+                "SessionID": 1,
+                "Username": "admin-lx",
+                "Password": "78900987"
+            },
+            {
+                "ComputerName": "AnotherComputer",
+                "SessionID": 2,
+                "Username": "AnotherUsername",
+                "Password": "AnotherPassword"
+            }
+        ]
+    },
+    {
+        "GroupName": "Group2",
+        "Users": [
+            {
+                "ComputerName": "YetAnotherComputer",
+                "SessionID": 3,
+                "Username": "YetAnotherUsername",
+                "Password": "YetAnotherPassword"
+            }
+        ]
+    }
+]

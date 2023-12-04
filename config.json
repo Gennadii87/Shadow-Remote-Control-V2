@@ -1,0 +1,30 @@
+[
+    {
+        "GroupName": "Group1",
+        "Users": [
+            {
+                "ComputerName": "PC-name",
+                "SessionID": 1,
+                "Username": "User",
+                "Password": "Passuser"
+            },
+            {
+                "ComputerName": "AnotherComputer",
+                "SessionID": 2,
+                "Username": "AnotherUsername",
+                "Password": "AnotherPassword"
+            }
+        ]
+    },
+    {
+        "GroupName": "Group2",
+        "Users": [
+            {
+                "ComputerName": "YetAnotherComputer",
+                "SessionID": 3,
+                "Username": "YetAnotherUsername",
+                "Password": "YetAnotherPassword"
+            }
+        ]
+    }
+]
